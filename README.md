@@ -44,8 +44,6 @@ Open the `script.js` file and replace the value of `apikey` with your actual API
 const apikey = "your_actual_api_key_here";
 ```
 
-> ⚠️ Do **not** expose your API key in public repositories.
-
 ---
 ## 🛠️ Technologies Used
 
@@ -58,7 +56,9 @@ const apikey = "your_actual_api_key_here";
 
 ## 🌐 Live Demo
 
-> You can host this on GitHub Pages or Netlify by simply uploading the files.
+👉 [Click here to see the Weather Web App live](https://kkabilan07.github.io/Weather-Web-App-using-JavaScript/)
+
+**Note**: This site will show only the User Interface page " Here you cannot see the weather" because in the script.js file the API Key was not given. So get your own free API as mentioned earlier.
 
 ---
 
