@@ -66,6 +66,8 @@ const apikey = "your_actual_api_key_here";
 
 ![UI Screenshot](preview.png)
 
+
+If you like ❤️make a star.
 ---
 
 ## 🤝 Contributing
