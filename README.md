@@ -19,8 +19,8 @@ This is a simple yet elegant weather web application built with **HTML**, **CSS*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Weather-Web-App-using-Java-script.git
-cd Weather-Web-App-using-Java-script
+git clone https://github.com/yourusername/Weather-Web-App-using-JavaScript.git
+cd Weather-Web-App-using-JavaScript
 ```
 
 Or download the ZIP and extract it.
@@ -51,7 +51,7 @@ const apikey = "your_actual_api_key_here";
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 - OpenWeatherMap API
 
 ---
